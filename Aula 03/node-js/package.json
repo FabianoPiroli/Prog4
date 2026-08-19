@@ -1,0 +1,12 @@
+{
+  "name": "programacao-iv",
+  "version": "1.0.0",
+  "description": "teste",
+  "license": "ISC",
+  "author": "Fabiano",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "init"
+  }
+}
